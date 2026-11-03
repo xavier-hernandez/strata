@@ -3,10 +3,11 @@ I wanted to see if I could run Strata on a 5GB card even though requirements are
 https://github.com/Niko1221/Strata \
 https://stratallm.org/
 
-Current setup
-AMD Ryzen 5 5600GT
-64GB RAM
-1TB NVME
+Current setup 
+---------------
+AMD Ryzen 5 5600GT \
+64GB RAM \
+1TB NVME \
 NVIDIA P2200 5GB
 
 
