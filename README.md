@@ -75,6 +75,8 @@ Check: Ball = $0.05, Bat = $1.05. Total = $1.10. ✔️
 
 **17.6 tok/sec**
 
+<img width="1085" height="770" alt="image" src="https://github.com/user-attachments/assets/45b2cbef-a4cc-41bb-a5dd-0334aaf69745" />
+
 
 ```yaml
 # Strata on a 5 GB Pascal card: NVIDIA Quadro P2000 / P2200 (compute capability 6.1). Needs the NVIDIA Container Toolkit on the
