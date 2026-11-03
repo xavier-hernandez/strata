@@ -1,6 +1,6 @@
 I wanted to see if I could run Strata on a 5GB card even though requirements are for a min. 12GB card.
 
-https://github.com/Niko1221/Strata
+https://github.com/Niko1221/Strata \
 https://stratallm.org/
 
 Current setup
